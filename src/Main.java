@@ -24,6 +24,7 @@ public class Main {
             System.out.println("Облегчённая версия Android");
         } else {
             System.out.println("Установите версию для Android");
+            // Задание 3
         }
     }
 }
